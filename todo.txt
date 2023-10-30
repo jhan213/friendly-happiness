@@ -1,0 +1,32 @@
+
+
+-- Create server and backend database storage -- Done
+-- Congifure login and logout feature -- Done
+-- Add feature to add subcriptions to database -- Done
+-- Display subscriptions from database -- Done
+-- Display the upcoming billing date instead of the purchase date (requires calculation) -- Done
+
+-- Add a "renews in __ days" feature -- Done
+-- Create model for edit feature and display correct info to be edited -- Done
+
+-- Create edit button front-end and function to change database -- Done
+
+-- Add delete feature -- Done
+
+
+-- Sort display by closest date -- Done
+
+-- Pretty Formatting
+    - EditModal
+    - AddModal
+    - The Actual Subscription Itself
+    - Header
+    - LoginForm
+    - Signup Form
+    
+
+-- Testing and debugging
+
+Advanced
+-- Add a flip feature when clicking on the edit button
+
